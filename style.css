@@ -1,0 +1,42 @@
+* {
+    background-color:rgb(245, 233, 204)
+}
+
+.titlecard {
+    border: 5px dotted black;
+    background-color: rgb(230, 230, 157);
+    margin-bottom: 8px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: fit-content
+}
+
+.titlecard h1 {
+    padding: 8px;
+    text-align: center;
+    background-color: rgb(230, 230, 157);
+}
+
+.gif {
+    border: red;
+    display: block;
+    margin: 8px auto;
+}
+
+.list {
+    border: 5px dotted black;
+    background-color: rgb(246, 187, 119);
+    font-size: 30px;
+    max-width: fit-content;
+    margin: 0 auto;
+}
+
+button {
+    border: 8px 0 black;
+    background-color: rgb(245, 233, 204);
+    font-size: 30px;
+    width: 300px;
+    padding: 4px;
+    margin: 30px 15px;
+    display: block;
+}
